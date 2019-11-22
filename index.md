@@ -97,13 +97,13 @@ onmouseout="this.style.color='black'">Events</a>
 <tr>
 
    <th >
-       <a href="file:///Users/mariamkhan/Desktop/IS448/IS_436/Home1.html" onmouseover="this.style.color=' blue'">Home </a> 
+       <a href="Home1.html" onmouseover="this.style.color=' blue'">Home </a> 
     </th>
 </tr>
 
 <tr>
     <th>
-        <bR>   <a href="file:///Users/mariamkhan/Desktop/IS448/IS_436/undergrad.html" >
+        <bR>   <a href="undergrad.html" >
         Undergraduate Program
         </a>  
         
@@ -114,7 +114,7 @@ onmouseout="this.style.color='black'">Events</a>
     
     <th>
         <bR>
-            <a href="file:///Users/mariamkhan/Desktop/IS448/IS_436/aboutus.html"> Contact us</a> 
+            <a href="aboutus.html"> Contact us</a> 
     </th>
 </tr>
 
